@@ -8,5 +8,9 @@ public class ArrayDemo02 {
         //数组地址(16进制存储)
         System.out.println(arr01[2]);
         //输出索引
+
+        for (int i = 0; i < ; i++) {
+            
+        }
     }
 }
