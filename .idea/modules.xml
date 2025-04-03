@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logicoperator/Logicoperator.iml" filepath="$PROJECT_DIR$/Logicoperator/Logicoperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketFind-Code/TicketFind-Code.iml" filepath="$PROJECT_DIR$/TicketFind-Code/TicketFind-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstact/abstact.iml" filepath="$PROJECT_DIR$/abstact/abstact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeblock/codeblock.iml" filepath="$PROJECT_DIR$/codeblock/codeblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapi/myapi.iml" filepath="$PROJECT_DIR$/myapi/myapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydate/mydate.iml" filepath="$PROJECT_DIR$/mydate/mydate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylist/mylist.iml" filepath="$PROJECT_DIR$/mylist/mylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymap/mymap.iml" filepath="$PROJECT_DIR$/mymap/mymap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypolymorphis/mypolymorphis.iml" filepath="$PROJECT_DIR$/mypolymorphis/mypolymorphis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvessel/myvessel.iml" filepath="$PROJECT_DIR$/myvessel/myvessel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-innerclass/oop-innerclass.iml" filepath="$PROJECT_DIR$/oop-innerclass/oop-innerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-interface/oop-interface.iml" filepath="$PROJECT_DIR$/oop-interface/oop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-code/sort-code.iml" filepath="$PROJECT_DIR$/sort-code/sort-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temo_test/temo_test.iml" filepath="$PROJECT_DIR$/temo_test/temo_test.iml" />
+    </modules>
+  </component>
+</project>
