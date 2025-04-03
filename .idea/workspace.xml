@@ -5,43 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db2172bd-a390-42d9-8a6f-ff62cceda981" name="Changes" comment="JavaCode update">
+      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/userManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/src/com/itheima/ArrayDemo/ArrayDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/array/src/com/itheima/ArrayDemo/ArrayDemo02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo_test" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Btmy520"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Btmy520&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Btmy520/JavaCode.git",
-    "accountId": "02d4cb48-1a2f-4c9b-83d4-5807f0805d21"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Btmy520/JavaCode.git&quot;,
+    &quot;accountId&quot;: &quot;02d4cb48-1a2f-4c9b-83d4-5807f0805d21&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2vCnaYXB4YITXU2RkTHXbLDHSTV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TETPB/Desktop/Java",
+    "last_opened_file_path": "C:/Users/TETPB/Desktop/BtmyGit/Java/demo_test/src/com/itheima/demotest/student",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +71,31 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TETPB\Desktop\BtmyGit\Java\demo_test\src\com\itheima\demotest\student" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demotest.student.App" />
+      <module name="demo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demotest.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,6 +113,8 @@
       <option name="presentableId" value="Default" />
       <updated>1743657989327</updated>
       <workItem from="1743657990723" duration="1479000" />
+      <workItem from="1743663974333" duration="2124000" />
+      <workItem from="1743666211619" duration="1736000" />
     </task>
     <task id="LOCAL-00001" summary="JavaCode update">
       <option name="closed" value="true" />
@@ -92,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743658857439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JavaCode update">
+      <option name="closed" value="true" />
+      <created>1743664247258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743664247258</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

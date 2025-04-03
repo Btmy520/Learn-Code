@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeblock/codeblock.iml" filepath="$PROJECT_DIR$/codeblock/codeblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_test/demo_test.iml" filepath="$PROJECT_DIR$/demo_test/demo_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapi/myapi.iml" filepath="$PROJECT_DIR$/myapi/myapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydate/mydate.iml" filepath="$PROJECT_DIR$/mydate/mydate.iml" />
@@ -20,7 +21,6 @@
       <module fileurl="file://$PROJECT_DIR$/oop-interface/oop-interface.iml" filepath="$PROJECT_DIR$/oop-interface/oop-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort-code/sort-code.iml" filepath="$PROJECT_DIR$/sort-code/sort-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
-      <module fileurl="file://$PROJECT_DIR$/temo_test/temo_test.iml" filepath="$PROJECT_DIR$/temo_test/temo_test.iml" />
     </modules>
   </component>
 </project>
