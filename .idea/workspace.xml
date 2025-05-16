@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db2172bd-a390-42d9-8a6f-ff62cceda981" name="Changes" comment="JavaCode update">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="db2172bd-a390-42d9-8a6f-ff62cceda981" name="Changes" comment="主要更新学校相关实训内容">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/demo_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/schooldemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/user/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/UserManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/userManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/user/UserManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/temo_test.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -144,6 +134,7 @@
       <workItem from="1747276141854" duration="83000" />
       <workItem from="1747292619641" duration="1763000" />
       <workItem from="1747297297024" duration="219000" />
+      <workItem from="1747398218626" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="JavaCode update">
       <option name="closed" value="true" />
@@ -185,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743667972481</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="主要更新学校相关实训内容">
+      <option name="closed" value="true" />
+      <created>1747398263937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747398263937</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +203,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaCode update" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaCode update" />
+    <MESSAGE value="主要更新学校相关实训内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="主要更新学校相关实训内容" />
   </component>
 </project>
