@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db2172bd-a390-42d9-8a6f-ff62cceda981" name="Changes" comment="JavaCode update">
-      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/src/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_test/src/com/itheima/demotest/student/userManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/src/com/itheima/ArrayDemo/ArrayDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/array/src/com/itheima/ArrayDemo/ArrayDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/demo_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/schooldemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/user/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/src/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/student/userManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/src/com/itheima/demotest/user/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-test/temo_test.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo_test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,6 +46,9 @@
     &quot;accountId&quot;: &quot;02d4cb48-1a2f-4c9b-83d4-5807f0805d21&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -56,33 +60,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TETPB/Desktop/BtmyGit/Java/demo_test/src/com/itheima/demotest/student",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.tjdz.student.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TETPB/Desktop/Git/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\TETPB\Desktop\BtmyGit\Java\demo_test\src\com\itheima\demotest\student" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.edu.tjdz.student.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.demotest.student.App" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demotest.user.App" />
       <module name="demo_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.demotest.student.*" />
+          <option name="PATTERN" value="com.itheima.demotest.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.tjdz.student.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.tjdz.student.App" />
+      <module name="demo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.tjdz.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.edu.tjdz.student.App" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -99,8 +118,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
       </set>
     </attachedChunks>
   </component>
@@ -114,7 +133,17 @@
       <updated>1743657989327</updated>
       <workItem from="1743657990723" duration="1479000" />
       <workItem from="1743663974333" duration="2124000" />
-      <workItem from="1743666211619" duration="1736000" />
+      <workItem from="1743666211619" duration="1952000" />
+      <workItem from="1743668691317" duration="217000" />
+      <workItem from="1743944558552" duration="2529000" />
+      <workItem from="1744000041201" duration="1934000" />
+      <workItem from="1744003286711" duration="1740000" />
+      <workItem from="1744268144036" duration="5634000" />
+      <workItem from="1744381091294" duration="50000" />
+      <workItem from="1746971238062" duration="676000" />
+      <workItem from="1747276141854" duration="83000" />
+      <workItem from="1747292619641" duration="1763000" />
+      <workItem from="1747297297024" duration="219000" />
     </task>
     <task id="LOCAL-00001" summary="JavaCode update">
       <option name="closed" value="true" />
@@ -148,11 +177,30 @@
       <option name="project" value="LOCAL" />
       <updated>1743664247258</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JavaCode update">
+      <option name="closed" value="true" />
+      <created>1743667972481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743667972481</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaCode update" />
